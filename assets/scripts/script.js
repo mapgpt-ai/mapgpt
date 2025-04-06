@@ -26,23 +26,23 @@ dropdowns.forEach(dropdown => {
 const heroSection = document.getElementById('hero');
 const backgroundImages = [
     {
-        url: "/assets/images/satellite-view.jpg",
+        url: "./assets/images/satellite-view.jpg",
         position: "center"
     },
     {
-        url: "/assets/images/ai-tech.jpg",
+        url: "./assets/images/ai-tech.jpg",
         position: "center"
     },
     {
-        url: "/assets/images/gis-mapping.jpg",
+        url: "./assets/images/gis-mapping.jpg",
         position: "bottom"
     },
     {
-        url: "/assets/images/digital-globe.jpg",
+        url: "./assets/images/digital-globe.jpg",
         position: "center"
     },
     {
-        url: "/assets/images/digital-matrix.jpg",
+        url: "./assets/images/digital-matrix.jpg",
         position: "center"
     }
 ];
